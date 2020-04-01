@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Exercícios PDM</string>
+    <string name="initial_value">Initial Value</string>
+    <string name="initial_value2">Value in USD</string>
+    <string name="monthly_application2">Value in USD</string>
+    <string name="monthly_application">Monthly Payment</string>
+    <string name="instalment">Instalment</string>
+    <string name="instalment2">Number of Months</string>
+    <string name="taxes">Rate</string>
+    <string name="taxes2" translatable="false">Ex: 0.02</string>
+    <string name="calc">Calculate</string>
+    <string name="ex3name">Savings</string>
+</resources>

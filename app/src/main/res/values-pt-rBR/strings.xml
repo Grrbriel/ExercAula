@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="initial_value2">Valor em BRL</string>
+    <string name="monthly_application2">Valor em BRL</string>
+    <string name="taxes">Taxa</string>
+    <string name="instalment2">Número de Meses</string>
+    <string name="monthly_application">Aplicação Mensal</string>
+    <string name="instalment">Tempo de Aplicação</string>
+    <string name="initial_value">Valor Inicial</string>
+    <string name="calc">CALCULAR</string>
+    <string name="ex3name">Poupança</string>
+</resources>

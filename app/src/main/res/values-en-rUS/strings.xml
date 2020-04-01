@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calc">Calculate</string>
+    <string name="taxes">Rate</string>
+    <string name="instalment2">Number of Months</string>
+    <string name="instalment">Instalment</string>
+    <string name="monthly_application">Monthly Payment</string>
+    <string name="monthly_application2">Value in USD</string>
+    <string name="initial_value2">Value in USD</string>
+    <string name="initial_value">Initial Value</string>
+    <string name="ex3name">Savings</string>
+</resources>

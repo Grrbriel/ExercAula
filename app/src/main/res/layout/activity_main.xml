@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="87dp"
+        android:background="@color/black"
+        android:text="AULA 3"
+        android:textColor="@color/gold"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="93dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:background="@color/gold"
+        android:textColor="@color/black"
+        android:onClick="ex3click"
+        android:text="ex 3" />
+
+
+</LinearLayout>
