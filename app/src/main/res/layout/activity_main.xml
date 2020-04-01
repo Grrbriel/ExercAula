@@ -54,6 +54,16 @@
                 android:onClick="ex33click"
                 android:text="ex 3"
                 android:layout_marginHorizontal="5dp"/>
+
+            <Button
+                android:id="@+id/button7"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:background="@color/gold"
+                android:textColor="@color/black"
+                android:onClick="ex34click"
+                android:text="ex 4"
+                android:layout_marginHorizontal="5dp"/>
         </TableRow>
 
     </TableLayout>

@@ -18,4 +18,11 @@
     <string name="vehicleWidth">Vehicle width reduction</string>
     <string name="nextQuestion">Next question</string>
     <string name="ex33name">Traffic Quiz</string>
+    <string name="totalConsumption">Total consupmtion USD $:</string>
+    <string name="artist">Artistic cover charge USD $:</string>
+    <string name="divide">Divide by:</string>
+    <string name="calculateFinal">calculate final bill</string>
+    <string name="serviceTax">Service Tax(10%) USD:</string>
+    <string name="totalBill">Total Bill USD:</string>
+    <string name="valuePerPerson">Value per person USD:</string>
 </resources>

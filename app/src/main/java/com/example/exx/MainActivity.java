@@ -25,4 +25,8 @@ public class MainActivity extends AppCompatActivity {
     public void ex33click(View view) {
         startActivity(new Intent(this, ex33Activity.class));
     }
+
+    public void ex34click(View view) {
+        startActivity(new Intent(this, ex34Activity.class));
+    }
 }

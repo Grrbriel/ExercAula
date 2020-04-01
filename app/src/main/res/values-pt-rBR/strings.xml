@@ -17,4 +17,11 @@
     <string name="vehicleWidth">Redução da largura de veículos</string>
     <string name="nextQuestion">Próxima Pergunta</string>
     <string name="ex33name">Quiz de Trânsito</string>
+    <string name="totalConsumption">Consumo total R$:</string>
+    <string name="artist">Couvert Artístico R$:</string>
+    <string name="divide">Dividir conta por:</string>
+    <string name="calculateFinal">Calcular conta final</string>
+    <string name="serviceTax">Taxa de serviço (10%) R$:</string>
+    <string name="totalBill">Conta total R$:</string>
+    <string name="valuePerPerson">Valor por pessoa R$:</string>
 </resources>
