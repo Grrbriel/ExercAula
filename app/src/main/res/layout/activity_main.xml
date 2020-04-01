@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@color/black"
     tools:context=".MainActivity">
 
     <Button
@@ -17,14 +18,47 @@
         tools:layout_editor_absoluteX="3dp"
         tools:layout_editor_absoluteY="93dp" />
 
-    <Button
-        android:id="@+id/button4"
-        android:layout_width="150dp"
-        android:layout_height="50dp"
-        android:background="@color/gold"
-        android:textColor="@color/black"
-        android:onClick="ex3click"
-        android:text="ex 3" />
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:stretchColumns="*"
+        android:shrinkColumns="*">
+
+        <TableRow>
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:background="@color/gold"
+                android:textColor="@color/black"
+                android:onClick="ex31click"
+                android:text="ex 1"
+                android:layout_marginHorizontal="5dp"/>
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:background="@color/gold"
+                android:textColor="@color/black"
+                android:onClick="ex32click"
+                android:text="ex 2"
+                android:layout_marginHorizontal="5dp"/>
+
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:background="@color/gold"
+                android:textColor="@color/black"
+                android:onClick="ex33click"
+                android:text="ex 3"
+                android:layout_marginHorizontal="5dp"/>
+        </TableRow>
+
+    </TableLayout>
+
+
 
 
 </LinearLayout>

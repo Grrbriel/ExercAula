@@ -9,4 +9,12 @@
     <string name="initial_value">Valor Inicial</string>
     <string name="calc">CALCULAR</string>
     <string name="ex3name">Poupança</string>
+    <string name="signMeaning">Q11 - Qual o significado desta placa?</string>
+    <string name="questionEleven">Questão 11 de 28</string>
+    <string name="bridgeAhead">Ponte em frente</string>
+    <string name="runwayNarrowing">Estreitamento de pista</string>
+    <string name="sharpSlope">Declive acentuado</string>
+    <string name="vehicleWidth">Redução da largura de veículos</string>
+    <string name="nextQuestion">Próxima Pergunta</string>
+    <string name="ex33name">Quiz de Trânsito</string>
 </resources>

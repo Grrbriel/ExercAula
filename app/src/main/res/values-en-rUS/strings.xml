@@ -9,4 +9,12 @@
     <string name="initial_value2">Value in USD</string>
     <string name="initial_value">Initial Value</string>
     <string name="ex3name">Savings</string>
+    <string name="signMeaning">Q11 - What does this sign mean</string>
+    <string name="questionEleven">Question 11 from 28</string>
+    <string name="bridgeAhead">Bridge Ahead</string>
+    <string name="runwayNarrowing">Runway narrowing</string>
+    <string name="sharpSlope">Sharp slope</string>
+    <string name="vehicleWidth">Vehicle width reduction</string>
+    <string name="nextQuestion">Next question</string>
+    <string name="ex33name">Traffic Quiz</string>
 </resources>

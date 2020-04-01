@@ -14,7 +14,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void ex3click(View view) {
-        startActivity(new Intent(this, ex3Activity.class));
+    public void ex31click(View view) {
+        startActivity(new Intent(this, ex31Activity.class));
+    }
+
+    public void ex32click(View view) {
+        startActivity(new Intent(this, ex32Activity.class));
+    }
+
+    public void ex33click(View view) {
+        startActivity(new Intent(this, ex33Activity.class));
     }
 }
